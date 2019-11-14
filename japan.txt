@@ -1,0 +1,16 @@
+# naver.com
+127.0.0.1 ad.naver.com
+127.0.0.1 adcreative.naver.com
+127.0.0.1 apbox.naver.com
+127.0.0.1 m.apbox.naver.com
+127.0.0.1 nv1.ad.naver.com
+127.0.0.1 nv2.ad.naver.com
+127.0.0.1 nv3.ad.naver.com
+127.0.0.1 nv5.ad.naver.com
+127.0.0.1 wrd.naver.com
+
+# naver.jp
+127.0.0.1 exstatic.naver.jp
+
+# naver.net
+127.0.0.1 adimg3.search.naver.net
